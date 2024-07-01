@@ -1,4 +1,19 @@
-p {
+.odd {
     background-color: lightpink;
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.font-adjust {
+    font-size: 24px;
+}
+
+#two {
+    font-size: 36px;
+    color: blue;
+}
+
+#four {
+    font-size: 24px;
+    font-weight: bolder;
+    background-color: lightgreen;
 }
