@@ -15,16 +15,17 @@ p {
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.p#third {
-    
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(110, 252, 157);
+    font-size: 24px;
+    font-weight: bold;
 }
 
 #second {
     color: rgb(66, 186, 255);
     font-size: 36px;
-}
-
-
-div {
-
 }
